@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000C4",
+        "font" : "Helvetica Neue Light",
+        "color" : "#CCCCCC65"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#F0AB00FF"
+      },
+      "backgroundSelected" : "#F0AB00E4",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#D5DADCE5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 31
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FFFFFF1A",
+      "spacing" : 8,
+      "text" : {
+        "size" : 29,
+        "colorSelected" : "#000000FF",
+        "font" : "BentonSans",
+        "color" : "#F0AB00FF"
+      },
+      "backgroundSelected" : "#D8D8DBFF"
+    },
+    "window" : {
+      "color" : "#000000DB",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#B4D0E57F",
+      "blur" : 11,
+      "roundness" : 4,
+      "paddingVertical" : 7
+    },
+    "credit" : "Joey Bronnner",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#CCCCCCFF",
+      "thickness" : 2
+    },
+    "name" : "SAP Leonardo"
+  }
+}
