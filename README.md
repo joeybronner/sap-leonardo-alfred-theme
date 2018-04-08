@@ -15,4 +15,8 @@ Once downloaded, double click on the file and click on **import** *(see below)*
 
 <center><img src="img/import.png" /></center>
 
+### Step 3: font
+
+If you want a full SAP Leonardo experience, you might install the BentonSans font from **fonts/BentonSans-TTF.zip**
+
 Enjoy 👍
